@@ -1443,6 +1443,30 @@ Coding
 
 </details>
 
+## [GhostOS](https://github.com/GhostOS-ai/GhostOS)
+Featherweight, 100% offline autonomous desktop AI companion
+
+<details>
+
+### Category
+General purpose, Productivity, Desktop, Coding
+
+### Description
+- Ultra-lightweight autonomous desktop AI companion idling at <35MB RAM using native OS WebViews instead of Electron.
+- Dynamic VRAM Juggler: Hot-swaps LLM, Vision, and Whisper on-demand in <150ms with peak VRAM strictly under 3.5GB.
+- Zero-DB RAG: Instant file chat and search via pure SQLite FTS5 with zero external vector database dependencies.
+- Ghostwriter: Inline text completion, grammar fix, and tone rewriting across all desktop applications via clipboard.
+- Terminal Sandbox Lens: Proactive safety layer preventing destructive shell commands (rm -rf, DROP TABLE, mkfs).
+- 100% Offline & Private: Zero telemetry, fully capable of operating in air-gapped environments.
+
+### Links
+- [GitHub](https://github.com/GhostOS-ai/GhostOS)
+- [PyPI](https://pypi.org/project/ghostos-ai/)
+- [Website](https://kib.best)
+- Author: [KIB.best](https://kib.best)
+
+</details>
+
 ## [Godmode](https://godmode.space/)
 Inspired by AutoGPT and BabyAGI, with nice UI
 
